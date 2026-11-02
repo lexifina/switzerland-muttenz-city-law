@@ -65,20 +65,71 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `6-6-6` | Nutzungs- und Gebührenordnung Jugend- und Kulturhaus Fabrik | 1 | 2006-07-01 to 2006-07-01 |
 | `6-6-7` | Verordnung über die Benutzung der Sportanlagen | 1 | 2025-08-01 to 2025-08-01 |
 | `6-6-7-1` | Betriebsordnung für die Videoüberwachung im Hallenbad | 1 | 2016-03-30 to 2016-03-30 |
+| `6-8-1` | Richtlinie zum kommunalen Beschaffungswesen | 1 | 2007-07-01 to 2007-07-01 |
+| `7-1-1` | Zonenreglement Siedlung | 1 | 2025-07-01 to 2025-07-01 |
+| `7-1-1-1` | Gebührenordnung im Baubewilligungswesen | 1 | 2008-03-18 to 2008-03-18 |
+| `7-1-2` | Teilzonenreglement Dorfkern | 1 | 2025-07-01 to 2025-07-01 |
+| `7-1-2-1` | Richtlinie Materialien im Muttenzer Dorfkern | 1 | 2009-06-24 to 2009-06-24 |
+| `7-1-3` | Teilzonenreglement Polyfeld | 1 | 2017-05-16 to 2017-05-16 |
+| `7-1-3-1` | Reglement über den Fonds Polyfeld | 1 | 2016-12-01 to 2016-12-01 |
+| `7-1-4` | Teilzonenreglement Schweizerhalle | 1 | 2017-05-16 to 2017-05-16 |
+| `7-1-5-ersatzabgabereglement` | Reglement über die Ersatzabgabe für notwendige Abstellplätze | 1 | 2014-01-01 to 2014-01-01 |
+| `7-3-1` | Reglement über die Feuerungskontrolle | 1 | 2024-01-01 to 2024-01-01 |
+| `7-3-1-1` | Gebührenordnung für die Feuerungskontrolle | 1 | 2025-06-01 to 2025-06-01 |
+| `7-4-2-1` | Reglement über Förderbeiträge und Förderaktionen in den Bereichen erneuerbare Energien und effiziente Energienutzung | 1 | 2025-07-01 to 2025-07-01 |
+| `7-4-3-1` | Wasserreglement | 1 | 2016-01-01 to 2016-01-01 |
+| `7-4-3-1-1` | Verordnung zum Wasserreglement | 1 | 2025-01-01 to 2025-01-01 |
+| `7-4-3-2` | Abwasserreglement | 1 | 2025-07-01 to 2025-07-01 |
+| `7-4-3-2-1` | Verordnung zum Abwasserreglement | 1 | 2022-10-01 to 2022-10-01 |
+| `7-4-4-1` | Abfallreglement | 1 | 2023-01-01 to 2023-01-01 |
+| `7-4-4-1-1` | Vollzugsverordnung zum Abfallreglement | 1 | 2025-01-01 to 2025-01-01 |
+| `7-4-4-2` | Benützungsordnung Kompostieranlage Hardacker | 1 | 2022-05-01 to 2022-05-01 |
+| `7-4-5-1` | Reglement über das Multimedianetz (MMN) | 1 | 2025-07-01 to 2025-07-01 |
+| `7-4-5-1-1` | Verordnung zum Reglement über das Multimedianetz (MMN) | 1 | 2025-01-01 to 2025-01-01 |
+| `7-6-1` | Strassenreglement | 1 | 2015-08-01 to 2015-08-01 |
+| `7-6-2-reklamereglement` | Reglement über die Reklameeinrichtungen | 1 | 2015-05-01 to 2015-05-01 |
+| `7-6-2-1-reklameverordnung` | Verordnung zum Reglement über die Reklameeinrichtungen | 1 | 2024-10-23 to 2024-10-23 |
+| `7-7-1` | Parkraumreglement | 1 | 2025-12-31 to 2025-12-31 |
+| `7-7-1-1` | Verordnung zum Parkraumreglement | 1 | 2023-03-22 to 2023-03-22 |
+| `7-7-2` | Richtlinie Parkieren auf den Schularealen der Gemeinde | 1 | 2019-09-11 to 2019-09-11 |
+| `7-7-3` | Verordnung über das Parkieren auf Gemeindeareal | 1 | 2023-06-01 to 2023-06-01 |
+| `7-7-4` | Reglement über den Fonds Parkiergebühren | 1 | 2025-12-31 to 2025-12-31 |
+| `7-7-5` | Verordnung über die Allmendbenützung | 1 | 2023-01-01 to 2023-01-01 |
+| `8-1-1` | Reglement der Sozial- und Gesundheitskommission (SGK) | 1 | 2002-01-01 to 2002-01-01 |
+| `8-1-1-1-sgk` | Geschäftsordnung der Sozial- und Gesundheitskommission | 1 | 2002-01-01 to 2002-01-01 |
+| `8-1-2` | Reglement über die Beiträge an die Pflege von pflegebedürftigen Personen zu Hause | 1 | 1998-01-01 to 1998-01-01 |
+| `8-1-3` | Reglement über die Kinder- und Jugendzahnpflege | 1 | 2010-08-01 to 2010-08-01 |
+| `8-1-3-1` | Verordnung zum Reglement über die Kinder- und Jugendzahnpflege | 1 | 2010-08-01 to 2010-08-01 |
+| `8-1-4` | Leistungsvereinbarung zwischen der Einwohnergemeinde und der Spitex Muttenz AG | 1 | 2021-01-01 to 2021-01-01 |
+| `8-2-1` | Bestattungs- und Friedhofreglement | 1 | 2019-01-01 to 2019-01-01 |
+| `8-2-1-1` | Verordnung zum Bestattungs- und Friedhofreglement | 1 | 2025-01-01 to 2025-01-01 |
+| `8-3-1` | Reglement über das Halten von Hunden | 1 | 2025-01-01 to 2025-01-01 |
+| `8-3-1-1` | Gebührenordnung zum Reglement über das Halten von Hunden | 1 | 2025-01-01 to 2025-01-01 |
+| `8-7-1-mietzinsbeitragsreglement-mbr` | Reglement über die Ausrichtung von Mietzinsbeiträgen | 1 | 2024-01-01 to 2024-01-01 |
+| `8-7-2` | Reglement über die Zusatzbeiträge zur Ergänzungsleistung | 1 | 2024-09-01 to 2024-09-01 |
+| `8-7-2-1` | Verordnung zum Reglement über die Zusatzbeiträge zur Ergänzungsleistung | 1 | 2024-01-01 to 2024-01-01 |
+| `8-7-3` | Leistungsvereinbarung APH | 1 | 2013-01-01 to 2013-01-01 |
+| `8-7-4` | Leistungsvereinbarung betreffend der Mütter- und Väterberatung | 1 | 2008-01-01 to 2008-01-01 |
+| `8-7-5` | Leistungsvereinbarung betreffend Führung einer Erziehungsberatungsstelle | 1 | 2020-08-01 to 2020-08-01 |
+| `8-7-6` | Geschäftsordnung Jugend- und Kulturhaus Fabrik | 1 | 2006-06-21 to 2006-06-21 |
+| `9-5-1` | Marktreglement | 1 | 2014-05-06 to 2014-05-06 |
+| `9-5-1-1` | Verordnung zum Marktreglement | 1 | 2014-05-06 to 2014-05-06 |
+| `9-5-2` | Gebührenordnung für Anlässe | 1 | 2019-04-28 to 2019-04-28 |
+| `9-5-3` | Vereinbarung betreffend der Organisation und Administration der Muttenzer Märkte | 1 | 2023-01-01 to 2023-01-01 |
 
-The build made 53 commits:
+The build made 104 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 51 | first version of an act |
+| 102 | first version of an act |
 | 2 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 82 laws in the record.
-- 83 tags.
+- 158 laws in the record.
+- 153 tags.
 
 ## Dates
 
@@ -90,13 +141,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3683093d3d89e6c7ec323a38f691ab942f56b757e39f34155a8ad0f5b03407bd` (626740 bytes).
+- Corpus: sha256 `497bdbf8595f7b86ffce6041b7a4e79418d440938e5f623dbb7179d3a265a069` (1183891 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-53 versions of 51 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+104 versions of 102 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

@@ -726,6 +726,720 @@
      "sha256": "022dd36b4f3216546160afbe982dcd9d6c7fb8fc2a322fd8c5e815315714b277"
     }
    ]
+  },
+  {
+   "slug": "6-8-1",
+   "short": "SRS 6.8-1",
+   "title": "Richtlinie zum kommunalen Beschaffungswesen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.8-1",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.8-1",
+     "sha256": "edce32979de68151455abcec7a8a9eb39e764c4612b4bbd6d10e07017fc850e8"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Zonenreglement Siedlung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 48,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "1d0a85392a0a1a669ca64d63818ee7c15e0e59b8a2533a2cee6dd30d0e50482a"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-1",
+   "short": "SRS 7.1-1.1",
+   "title": "Gebührenordnung im Baubewilligungswesen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-1.1",
+   "versions": [
+    {
+     "from": "2008-03-18",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-1.1",
+     "sha256": "287e04051b82c50a6db664cd9d8cfdc1a0792d068de9aeb544d55ec979a01bc9"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Teilzonenreglement Dorfkern",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 35,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "710e30f5ecb7fa63d53509f0a0db6710f3f24b0492487828951d8c45d69dd4e4"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2-1",
+   "short": "SRS 7.1-2.1",
+   "title": "Richtlinie Materialien im Muttenzer Dorfkern",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-2.1",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-2.1",
+     "sha256": "6da6a94d5beccbdf9d14f5ec364d846f9fcebf1e27c12d59d02c559ee613ddfd"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Teilzonenreglement Polyfeld",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 34,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "29ca614cb6cc00e0fac73a431aedc1a3d684b53e1e8cffe1f5d0ac179bc930fe"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-1",
+   "short": "SRS 7.1-3.1",
+   "title": "Reglement über den Fonds Polyfeld",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-3.1",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-3.1",
+     "sha256": "41684beddb5642fd1dd0b8993c23edc1aedac1d7fef1cb1ae221a4548133f544"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Teilzonenreglement Schweizerhalle",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 16,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "5a7b62f7eaa62a64d2969d083a00bd3ace7be765d6b7a21a5836145695b83d48"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-5-ersatzabgabereglement",
+   "short": "Ersatzabgabereglement",
+   "title": "Reglement über die Ersatzabgabe für notwendige Abstellplätze",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.1-5",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.1-5",
+     "sha256": "06ee9e0006a929d5667cc2c654153cc98d2d1bff6d8dda54379399bd8f3ca10e"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Reglement über die Feuerungskontrolle",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "98c45bb79128aa307e53103dfeec8c99835d9d915d68947e533e4ad36bea76fd"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1-1",
+   "short": "SRS 7.3-1.1",
+   "title": "Gebührenordnung für die Feuerungskontrolle",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.3-1.1",
+   "versions": [
+    {
+     "from": "2025-06-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.3-1.1",
+     "sha256": "810a7bbb816694d8fb45e29e8b883a185291a411ca07d1daa3d5d8a5a5adb79d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2-1",
+   "short": "SRS 7.4.2-1",
+   "title": "Reglement über Förderbeiträge und Förderaktionen in den Bereichen erneuerbare Energien und effiziente Energienutzung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.2-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.2-1",
+     "sha256": "191557d72d1349b68b6723bd42087548e3247e8bd51abde69c58d90631e923fd"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Wasserreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 39,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "d34c8023815d8f5640e65334de55d60b70b3825add7c8bd9ac5b35b1f4b85d17"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1",
+   "short": "SRS 7.4.3-1.1",
+   "title": "Verordnung zum Wasserreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "7b66080398afc0ab94aa2f6bf4f8d045fc9e9aa9a4881b75476b5e154df7330a"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 30,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "57d31af4cd5752b59590e5412a55277fe05368fb53a6daceebb7b8d938d1106c"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Verordnung zum Abwasserreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "18a8487c0f6cffde6798917d31f0fd4b837b0b8b3a83a86b3019a0830c3429e1"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Abfallreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 19,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "47d2bb3b515efa0abc9ed4a0c26cbba3624e741bd28f8c7ab1c138db2330ee08"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Vollzugsverordnung zum Abfallreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 19,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "67c261d80cbb278c71182cde53ab26056cc9cbbc92f938486712cc992ba02031"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-2",
+   "short": "SRS 7.4.4-2",
+   "title": "Benützungsordnung Kompostieranlage Hardacker",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.4-2",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.4-2",
+     "sha256": "4f1d43540d110856cf2ca3f41c6d731b9103a96b68a62349b99596e342fb818e"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5-1",
+   "short": "SRS 7.4.5-1",
+   "title": "Reglement über das Multimedianetz (MMN)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.5-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 29,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.5-1",
+     "sha256": "62c85f1f986a18404b6c1306bbf7d356ab27dbc8c9938e5dbb26355a38d8e236"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5-1-1",
+   "short": "SRS 7.4.5-1.1",
+   "title": "Verordnung zum Reglement über das Multimedianetz (MMN)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.4.5-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 11,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.4.5-1.1",
+     "sha256": "f93848f1770b36ed7b21509eab7f515eabb17b9a0f2fdc5f3ff0dd3edca279a6"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Strassenreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 36,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "041752c47dbb99701e00716ab4dc761012d9897301102c164a6a06a552128925"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2-reklamereglement",
+   "short": "Reklamereglement",
+   "title": "Reglement über die Reklameeinrichtungen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "82672c5b6d1af5cdd16fc78a78a790134aeefaf4529be57226f89d6912a3de6c"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2-1-reklameverordnung",
+   "short": "Reklameverordnung",
+   "title": "Verordnung zum Reglement über die Reklameeinrichtungen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.6-2.1",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 29,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.6-2.1",
+     "sha256": "8cbba581b4c5557004690f060f626bbc8a4f7f84fcf4ffd788a85ea67c79ffc8"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Parkraumreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 23,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "b26a8632d659a1c6af6f86c119d46b56e32f055f33f7daf213b09676c8771931"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1",
+   "short": "SRS 7.7-1.1",
+   "title": "Verordnung zum Parkraumreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-1.1",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-1.1",
+     "sha256": "447ec45f695761be1de3302a513e9a48b5cad12cc979a4887d89e28625655c09"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2",
+   "short": "SRS 7.7-2",
+   "title": "Richtlinie Parkieren auf den Schularealen der Gemeinde",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 5,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "3e156a424bb92a154f174499ab9aaa1db31e2ab4488d82ae15e33a067ada917b"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3",
+   "short": "SRS 7.7-3",
+   "title": "Verordnung über das Parkieren auf Gemeindeareal",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-3",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 5,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-3",
+     "sha256": "9e36867d3c66c93a427d80c25891cff143e6967b59a75b845c5a0809f29458b2"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-4",
+   "short": "SRS 7.7-4",
+   "title": "Reglement über den Fonds Parkiergebühren",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-4",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-4",
+     "sha256": "fe623c553bfe4c804c502028c1931d69258199c8c4fb414c65630297423d7c6c"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-5",
+   "short": "SRS 7.7-5",
+   "title": "Verordnung über die Allmendbenützung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/7.7-5",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/7.7-5",
+     "sha256": "4309762cb8fa2bfdb5ca53e2108ab2d66b7e62c9fc03665f4bbe185ce28acd92"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Reglement der Sozial- und Gesundheitskommission (SGK)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "6bb9a2ffbc9f5c4b28e219da8fd40d696982765e53f219438e1640bb2d388574"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1-1-sgk",
+   "short": "SGK",
+   "title": "Geschäftsordnung der Sozial- und Gesundheitskommission",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-1.1",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 5,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-1.1",
+     "sha256": "5ad1381c48259cb7c1aa043fc63b6aa599805411060f21cdaaecb3c062958066"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-2",
+   "short": "SRS 8.1-2",
+   "title": "Reglement über die Beiträge an die Pflege von pflegebedürftigen Personen zu Hause",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-2",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 19,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-2",
+     "sha256": "891d70a08071812eedeba93c8a186c6909f6a518dc0f5e0c2747a402e35af7de"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-3",
+   "short": "SRS 8.1-3",
+   "title": "Reglement über die Kinder- und Jugendzahnpflege",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-3",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 9,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-3",
+     "sha256": "fe762b89b37fbb5b4001c93320e36491a11e5834406e04c0978b9e800841a0cc"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-3-1",
+   "short": "SRS 8.1-3.1",
+   "title": "Verordnung zum Reglement über die Kinder- und Jugendzahnpflege",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-3.1",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 3,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-3.1",
+     "sha256": "ad12f19ef9fc4ccbce63f62c529eb1ffd82b3242b9421c7ed12e311b497e952d"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-4",
+   "short": "SRS 8.1-4",
+   "title": "Leistungsvereinbarung zwischen der Einwohnergemeinde und der Spitex Muttenz AG",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.1-4",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 41,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.1-4",
+     "sha256": "94445da951360e3ad6f8f62af4ee0b6804cb53734a02d66122534af6eb28a412"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 25,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "c363b88c6785ff89dd7a37de98221b61a9fd5988279d5a588352f6b43426ad5c"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Verordnung zum Bestattungs- und Friedhofreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 30,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "42289501e2eac50e8d38de220f20d0d8598892011c1601d6a3f72b7c998b64c7"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über das Halten von Hunden",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "78cb0a246a1c11604357cfd1df581a342989e6310af5e6564d544ae6bb34010e"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1-1",
+   "short": "SRS 8.3-1.1",
+   "title": "Gebührenordnung zum Reglement über das Halten von Hunden",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.3-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.3-1.1",
+     "sha256": "31796d1ba8662634d480fa44c3f6dc6c76a2bcfba2667d9d3f885545b1376191"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1-mietzinsbeitragsreglement-mbr",
+   "short": "Mietzinsbeitragsreglement, MBR",
+   "title": "Reglement über die Ausrichtung von Mietzinsbeiträgen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "7f49807925879b244e149421a624f60722ecc82da3a0dbfcfb5f1280aa19b4df"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Reglement über die Zusatzbeiträge zur Ergänzungsleistung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "9d43471e94f2e1e1a238a9dd1a4dc1e62a0c1fb8255812e3bbd24ec3b0391e83"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2-1",
+   "short": "SRS 8.7-2.1",
+   "title": "Verordnung zum Reglement über die Zusatzbeiträge zur Ergänzungsleistung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-2.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 3,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-2.1",
+     "sha256": "5081bc038f9911d6e12f9d1aa7dc67cc20ca412d5f4ed755ec2d6d8e42c1c90a"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Leistungsvereinbarung APH",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "67a84492cc0025b5cc93e2c8173874d422c104343305313a55d2fa0f064125d0"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-4",
+   "short": "SRS 8.7-4",
+   "title": "Leistungsvereinbarung betreffend der Mütter- und Väterberatung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-4",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-4",
+     "sha256": "ca603b2fca4eabaf324430b97c43a8937217667317c2480566b6a5857347ae87"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-5",
+   "short": "SRS 8.7-5",
+   "title": "Leistungsvereinbarung betreffend Führung einer Erziehungsberatungsstelle",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-5",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 24,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-5",
+     "sha256": "a42bc151233f8c6aa2d680d2979042b970f7c40653531bc7923125fe0123987b"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-6",
+   "short": "SRS 8.7-6",
+   "title": "Geschäftsordnung Jugend- und Kulturhaus Fabrik",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/8.7-6",
+   "versions": [
+    {
+     "from": "2006-06-21",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/8.7-6",
+     "sha256": "85f0fccc401c3fb4bd3b5080d187dfa4580900ca0b0f34cc6b0b9902d520f332"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Marktreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 19,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "da439fb752ad6d8d75d2acc439dc006432c3c97476fc10dd78d074669eac82f9"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-1",
+   "short": "SRS 9.5-1.1",
+   "title": "Verordnung zum Marktreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/9.5-1.1",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/9.5-1.1",
+     "sha256": "ae01f76f6ebd03a31cec94b0e706a81793356e48037f938d684a6e3e48d73f97"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2",
+   "short": "SRS 9.5-2",
+   "title": "Gebührenordnung für Anlässe",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "2019-04-28",
+     "units": 11,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "13472d2d353d86e3f06ea62494cbaf761bdf265ad8c706af9bedbc7357e9d259"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-3",
+   "short": "SRS 9.5-3",
+   "title": "Vereinbarung betreffend der Organisation und Administration der Muttenzer Märkte",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/9.5-3",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/9.5-3",
+     "sha256": "7ac51613769ac0840c3f039ab54209a110a2ecb8da37e45ac94910a37d06b55b"
+    }
+   ]
   }
  ]
 }

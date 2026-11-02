@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ch-bl",
   "repo": "https://github.com/lexifina/switzerland-muttenz-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (51 acts, 53 versions) from the SRS",
+  "build": "built: Gemeindeordnung and municipal enactments (102 acts, 104 versions) from the SRS",
   "language": "de",
   "sources": 1
 }

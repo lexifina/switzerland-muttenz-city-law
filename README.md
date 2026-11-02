@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-51 acts with 53 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+102 acts with 104 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -63,6 +63,57 @@ The text is in German, exactly as the municipality publishes it.
 | `6-6-6/` | Nutzungs- und Gebührenordnung Jugend- und Kulturhaus Fabrik (SRS 6.6-6) | 1 | as enacted, 1 July 2006 |
 | `6-6-7/` | Verordnung über die Benutzung der Sportanlagen (SRS 6.6-7) | 1 | as enacted, 1 August 2025 |
 | `6-6-7-1/` | Betriebsordnung für die Videoüberwachung im Hallenbad (SRS 6.6-7.1) | 1 | as enacted, 30 March 2016 |
+| `6-8-1/` | Richtlinie zum kommunalen Beschaffungswesen (SRS 6.8-1) | 1 | as enacted, 1 July 2007 |
+| `7-1-1/` | Zonenreglement Siedlung (SRS 7.1-1) | 1 | one version (the oldest available), 1 July 2025 |
+| `7-1-1-1/` | Gebührenordnung im Baubewilligungswesen (SRS 7.1-1.1) | 1 | as enacted, 18 March 2008 |
+| `7-1-2/` | Teilzonenreglement Dorfkern (SRS 7.1-2) | 1 | one version (the oldest available), 1 July 2025 |
+| `7-1-2-1/` | Richtlinie Materialien im Muttenzer Dorfkern (SRS 7.1-2.1) | 1 | as enacted, 24 June 2009 |
+| `7-1-3/` | Teilzonenreglement Polyfeld (SRS 7.1-3) | 1 | as enacted, 16 May 2017 |
+| `7-1-3-1/` | Reglement über den Fonds Polyfeld (SRS 7.1-3.1) | 1 | as enacted, 1 December 2016 |
+| `7-1-4/` | Teilzonenreglement Schweizerhalle (SRS 7.1-4) | 1 | as enacted, 16 May 2017 |
+| `7-1-5-ersatzabgabereglement/` | Reglement über die Ersatzabgabe für notwendige Abstellplätze (SRS 7.1-5) | 1 | as enacted, 1 January 2014 |
+| `7-3-1/` | Reglement über die Feuerungskontrolle (SRS 7.3-1) | 1 | as enacted, 1 January 2024 |
+| `7-3-1-1/` | Gebührenordnung für die Feuerungskontrolle (SRS 7.3-1.1) | 1 | one version (the oldest available), 1 June 2025 |
+| `7-4-2-1/` | Reglement über Förderbeiträge und Förderaktionen in den Bereichen erneuerbare Energien und effiziente Energienutzung (SRS 7.4.2-1) | 1 | one version (the oldest available), 1 July 2025 |
+| `7-4-3-1/` | Wasserreglement (SRS 7.4.3-1) | 1 | one version (the oldest available), 1 January 2016 |
+| `7-4-3-1-1/` | Verordnung zum Wasserreglement (SRS 7.4.3-1.1) | 1 | one version (the oldest available), 1 January 2025 |
+| `7-4-3-2/` | Abwasserreglement (SRS 7.4.3-2) | 1 | one version (the oldest available), 1 July 2025 |
+| `7-4-3-2-1/` | Verordnung zum Abwasserreglement (SRS 7.4.3-2.1) | 1 | one version (the oldest available), 1 October 2022 |
+| `7-4-4-1/` | Abfallreglement (SRS 7.4.4-1) | 1 | as enacted, 1 January 2023 |
+| `7-4-4-1-1/` | Vollzugsverordnung zum Abfallreglement (SRS 7.4.4-1.1) | 1 | one version (the oldest available), 1 January 2025 |
+| `7-4-4-2/` | Benützungsordnung Kompostieranlage Hardacker (SRS 7.4.4-2) | 1 | as enacted, 1 May 2022 |
+| `7-4-5-1/` | Reglement über das Multimedianetz (MMN) (SRS 7.4.5-1) | 1 | one version (the oldest available), 1 July 2025 |
+| `7-4-5-1-1/` | Verordnung zum Reglement über das Multimedianetz (MMN) (SRS 7.4.5-1.1) | 1 | one version (the oldest available), 1 January 2025 |
+| `7-6-1/` | Strassenreglement (SRS 7.6-1) | 1 | one version (the oldest available), 1 August 2015 |
+| `7-6-2-reklamereglement/` | Reglement über die Reklameeinrichtungen (SRS 7.6-2) | 1 | as enacted, 1 May 2015 |
+| `7-6-2-1-reklameverordnung/` | Verordnung zum Reglement über die Reklameeinrichtungen (SRS 7.6-2.1) | 1 | one version (the oldest available), 23 October 2024 |
+| `7-7-1/` | Parkraumreglement (SRS 7.7-1) | 1 | one version (the oldest available), 31 December 2025 |
+| `7-7-1-1/` | Verordnung zum Parkraumreglement (SRS 7.7-1.1) | 1 | as enacted, 22 March 2023 |
+| `7-7-2/` | Richtlinie Parkieren auf den Schularealen der Gemeinde (SRS 7.7-2) | 1 | one version (the oldest available), 11 September 2019 |
+| `7-7-3/` | Verordnung über das Parkieren auf Gemeindeareal (SRS 7.7-3) | 1 | one version (the oldest available), 1 June 2023 |
+| `7-7-4/` | Reglement über den Fonds Parkiergebühren (SRS 7.7-4) | 1 | as enacted, 31 December 2025 |
+| `7-7-5/` | Verordnung über die Allmendbenützung (SRS 7.7-5) | 1 | one version (the oldest available), 1 January 2023 |
+| `8-1-1/` | Reglement der Sozial- und Gesundheitskommission (SGK) (SRS 8.1-1) | 1 | as enacted, 1 January 2002 |
+| `8-1-1-1-sgk/` | Geschäftsordnung der Sozial- und Gesundheitskommission (SRS 8.1-1.1) | 1 | as enacted, 1 January 2002 |
+| `8-1-2/` | Reglement über die Beiträge an die Pflege von pflegebedürftigen Personen zu Hause (SRS 8.1-2) | 1 | one version (the oldest available), 1 January 1998 |
+| `8-1-3/` | Reglement über die Kinder- und Jugendzahnpflege (SRS 8.1-3) | 1 | one version (the oldest available), 1 August 2010 |
+| `8-1-3-1/` | Verordnung zum Reglement über die Kinder- und Jugendzahnpflege (SRS 8.1-3.1) | 1 | as enacted, 1 August 2010 |
+| `8-1-4/` | Leistungsvereinbarung zwischen der Einwohnergemeinde und der Spitex Muttenz AG (SRS 8.1-4) | 1 | as enacted, 1 January 2021 |
+| `8-2-1/` | Bestattungs- und Friedhofreglement (SRS 8.2-1) | 1 | one version (the oldest available), 1 January 2019 |
+| `8-2-1-1/` | Verordnung zum Bestattungs- und Friedhofreglement (SRS 8.2-1.1) | 1 | one version (the oldest available), 1 January 2025 |
+| `8-3-1/` | Reglement über das Halten von Hunden (SRS 8.3-1) | 1 | one version (the oldest available), 1 January 2025 |
+| `8-3-1-1/` | Gebührenordnung zum Reglement über das Halten von Hunden (SRS 8.3-1.1) | 1 | one version (the oldest available), 1 January 2025 |
+| `8-7-1-mietzinsbeitragsreglement-mbr/` | Reglement über die Ausrichtung von Mietzinsbeiträgen (SRS 8.7-1) | 1 | as enacted, 1 January 2024 |
+| `8-7-2/` | Reglement über die Zusatzbeiträge zur Ergänzungsleistung (SRS 8.7-2) | 1 | one version (the oldest available), 1 September 2024 |
+| `8-7-2-1/` | Verordnung zum Reglement über die Zusatzbeiträge zur Ergänzungsleistung (SRS 8.7-2.1) | 1 | as enacted, 1 January 2024 |
+| `8-7-3/` | Leistungsvereinbarung APH (SRS 8.7-3) | 1 | one version (the oldest available), 1 January 2013 |
+| `8-7-4/` | Leistungsvereinbarung betreffend der Mütter- und Väterberatung (SRS 8.7-4) | 1 | as enacted, 1 January 2008 |
+| `8-7-5/` | Leistungsvereinbarung betreffend Führung einer Erziehungsberatungsstelle (SRS 8.7-5) | 1 | one version (the oldest available), 1 August 2020 |
+| `8-7-6/` | Geschäftsordnung Jugend- und Kulturhaus Fabrik (SRS 8.7-6) | 1 | as enacted, 21 June 2006 |
+| `9-5-1/` | Marktreglement (SRS 9.5-1) | 1 | as enacted, 6 May 2014 |
+| `9-5-1-1/` | Verordnung zum Marktreglement (SRS 9.5-1.1) | 1 | as enacted, 6 May 2014 |
+| `9-5-2/` | Gebührenordnung für Anlässe (SRS 9.5-2) | 1 | one version (the oldest available), 28 April 2019 |
+| `9-5-3/` | Vereinbarung betreffend der Organisation und Administration der Muttenzer Märkte (SRS 9.5-3) | 1 | as enacted, 1 January 2023 |
 
 ## Source
 
