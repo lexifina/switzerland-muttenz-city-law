@@ -1,0 +1,731 @@
+{
+ "country": "CH-BL-MUTTENZ",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "48a67f2fa3e11600d32343526c0a1aed7c282bf991badd5ef7e72694e4913a43"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-2",
+   "short": "SRS 1.1-2",
+   "title": "Verwaltungs- und Organisationsreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.1-2",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 37,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.1-2",
+     "sha256": "b0b0f0bb6c6c0ea9d8eb1fea898401ac14dfe1e862ca816e0af3bd2c5cdfe102"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1",
+   "short": "SRS 1.4-1",
+   "title": "Verordnung über das amtliche Informationsblatt zu Gemeindewahlen nach dem Mehrheitswahlverfahren",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.4-1",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 5,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.4-1",
+     "sha256": "0a2a1b7ebc5ee0d075fcb113617f1e3a8936e0c3e8ea750a07b350ba5ed00fc5"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Geschäftsordnung des Gemeinderates",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2014-02-19",
+     "units": 26,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "174e770538d0b1f7dae0698a2e938ca4c900d1bc94439d10d3c165b65b2d91df"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Geschäftsordnung der Geschäftsleitungen (Geschäftsleitung und ergänzende Geschäftsleitung)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 26,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "db530765199a0b46e86796bded0386c3565949d66edda03ea3311a5ed861adaa"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Behördenreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "ff22683a9351edcfc7fdaecddfd1b31c44cc999c60120a5269187f1546894888"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Reglement der Gemeindekommission und der Wahlbehörde",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 18,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "951a0129a0d6e48740da2108fdbece585be6842fae76e35e20e32ca13bf080ca"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4-1",
+   "short": "SRS 1.6-4.1",
+   "title": "Geschäftsordnung der Gemeindekommission",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-4.1",
+   "versions": [
+    {
+     "from": "2001-05-22",
+     "units": 16,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-4.1",
+     "sha256": "5f001c2141288e00f8f89c2893e3deb8dd93958fa4dd6fc5a3eb9afad843bd28"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-6",
+   "short": "SRS 1.6-6",
+   "title": "Reglement der Sicherheits- und Umweltkommission (SUK)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-6",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-6",
+     "sha256": "300f61c9f42701f0c43bd1e21e56f26b0fce7c85fbef7412b04c121819cfc953"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-6-1",
+   "short": "SRS 1.6-6.1",
+   "title": "Geschäftsordnung der Sicherheits- und Umweltkommission (SUK)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-6.1",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "units": 5,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-6.1",
+     "sha256": "1d5a339e9294452639291ccef95b40fd64bf47b76c3861495ebe9503929c2235"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-7",
+   "short": "SRS 1.6-7",
+   "title": "Reglement der Bau- und Planungskommission (BPK)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-7",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-7",
+     "sha256": "91c22549f68fd22c0c391a4613f006730973e89fd38af05380c5e7ad1eec2afd"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-7-1-bpk",
+   "short": "BPK",
+   "title": "Geschäftsordnung der Bau- und Planungskommission",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.6-7.1",
+   "versions": [
+    {
+     "from": "2003-06-01",
+     "units": 9,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.6-7.1",
+     "sha256": "fcb5abeeeface9324218cc28d23b7742e1a49aa3f6094b5544752fc1c1cfe696"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 86,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "a99f2c46ee13c9743524b72745ef5d5b9532b1ec71aaf7362c537f416478c006"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Personalverordnung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 78,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "7568644ab0880aa8b228386244fe0ca1034aa4c5367076b8123785ef4d555ede"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2",
+   "short": "SRS 1.7-1.2",
+   "title": "Verordnung über die Organisation, die Rechte, Pflichten und Aufgaben des Mitarbeiterrates",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/1.7-1.2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 20,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/1.7-1.2",
+     "sha256": "f424e025e56be06cc27090427bb3bd0c49c0458567e8792cde019e13b268ea2c"
+    }
+   ]
+  },
+  {
+   "slug": "2-2-1",
+   "short": "SRS 2.2-1",
+   "title": "Reglement über die amtliche Wohnungsabnahme",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/2.2-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/2.2-1",
+     "sha256": "546cb433cf9db3a65834bccbbfee5fcc1504f2821a68ab02bef81caea038650e"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die familienergänzende Kinderbetreuung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 22,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "9dcb4c8c6da8e078863c3b3f535e25bb54eb08da55857a5406330bde33f3ab6b"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1",
+   "short": "SRS 4.1-1.1",
+   "title": "Verordnung über die familienergänzende Kinderbetreuung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 20,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "2fb796728ce746cc6ebd0e426523a047a5f452ac5f8e7afcd2bdf22ece2e9f3c"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-2",
+   "short": "SRS 4.1-1.2",
+   "title": "Geschäftsordnung der Tagesfamilienorganisation",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.1-1.2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.2",
+     "sha256": "a1e52d81e5c33c0a146d3603f5a9020196015c2897ce749d3069c75237cac931"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-3",
+   "short": "SRS 4.1-1.3",
+   "title": "Geschäftsordnung Schulergänzende Betreuung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.1-1.3",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 25,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.3/versions/253",
+     "sha256": "608908af1e4cc3b037e4e6026be07999a7a8235d2aca2e8ed94f8a5808449f0d"
+    },
+    {
+     "from": "2026-06-20",
+     "units": 25,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.3/versions/264",
+     "sha256": "4f3ce50339881040706c1624cc84874e3f102e5ab1ea5562256ab9d7a06abdee"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 25,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.3",
+     "sha256": "9a916aca57e6b8a36a49eafc6405fc3d10fcabe10c7f62ab9e80874decc2d9dc"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-4",
+   "short": "SRS 4.1-1.4",
+   "title": "Geschäftsordnung Tagesheim Sonnenmatt",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.1-1.4",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 21,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.1-1.4",
+     "sha256": "375405c0740fa8a4d05ed1176b66c80a73119b8601996ebeba93d7a9e857e64b"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Weisung über die Entrichtung von Gemeindebeiträgen aus dem Spezialfonds für die Schuljugend von Muttenz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "979a50479531ac13834d15ce23883aa10d43aae9f82f6e6b5d7ceff3a599801e"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Reglement für die Allgemeine Musikschule",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 12,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "4389ac658f3951ac41e964dafc59fff044502c4b02c316d23bc86af8f646954c"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Betriebsordnung der Allgemeinen Musikschule Muttenz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "27aeaed5b4e7a1785b6bdfd42955ee24b7d5a47cf271575420d739a052f55e7a"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Reglement der Kultur- und Sportkommission (KuSpo)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2005-05-01",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "9799a5bc35c0af05a99ca7e4ac9932c9fa84096ac226866522ff9170c3089006"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1-1",
+   "short": "SRS 4.7-1.1",
+   "title": "Geschäfts- und Gebührenordnung Museen Muttenz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.7-1.1",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.7-1.1",
+     "sha256": "ebab0cc3e79337274006d0fbed364d60090d543af7957c9eee492177f5c4fae4"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Leistungsvereinbarung mit Frauenverein Muttenz über die Führung der Bibliothek Muttenz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "b8c77d09f0c640faae394dc551cd69fdc0d1c07d425a0701f1bb2f05bb0a72fc"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3",
+   "short": "SRS 4.7-3",
+   "title": "Richtlinie für Kulturförderung und Subventionsgesuche",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/4.7-3",
+   "versions": [
+    {
+     "from": "2017-02-22",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/4.7-3",
+     "sha256": "de17f98397e03557871841f899bf4db9015c46e2cf9865778efe42748d6980b7"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 45,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "c24187264573b5457070ee1f2f68ecf30f410102fecb39d3d4c06de891a15766"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Reglement über den Bevölkerungsschutz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "2108c0694a2fd9913d1ac3aafd8601c322b0312c6fae9e5d21f80950a16703e2"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1-1",
+   "short": "SRS 5.3-1.1",
+   "title": "Verordnung über den Bevölkerungsschutz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/5.3-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/5.3-1.1",
+     "sha256": "a290729e694efa679d677681825cbdb3e6bdfa426a97ad4d55286cf6911f2310"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Reglement Stützpunkt-Feuerwehr Muttenz",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 32,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "67006ab658058a658828789f4d041911237386aa214e508c713eb5a7f15b20f3"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Verordnung zum Reglement Stützpunkt-Feuerwehr",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 34,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "bb15cb08b035cf45fed670b514c52f8635b25dd49b138dfebb014f5f40f9ce9e"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Reglement der Finanzkommission (Fiko)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "bea0252d50125a2f8da7f6ffcec4b00560c70c415ef9e88ecb6ed2b37aad723d"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1-1",
+   "short": "SRS 6.1-1.1",
+   "title": "Geschäftsordnung der Finanzkommission (Fiko)",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.1-1.1",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.1-1.1",
+     "sha256": "aab41304d52202aa922225c3c0ef1237fb401ef261ad2f8a96b1fde0bd8450ba"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-2",
+   "short": "SRS 6.1-2",
+   "title": "Reglement über den Fonds Hagnau-Schänzli",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.1-2",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.1-2",
+     "sha256": "2758046590362a6f60e25c45be4da83a0f3274117c94466af294aa3e6091546a"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-3",
+   "short": "SRS 6.1-3",
+   "title": "Richtlinie Ausgabenkompetenz und Rechnungswesen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.1-3",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 9,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.1-3",
+     "sha256": "8f3b93ffec2a905a32efaf0d08c3c5b6ec08b4bc6700245701d147689874e1f0"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-4",
+   "short": "SRS 6.1-4",
+   "title": "Richtlinien für die Debitoren- / Verlustscheinbewirtschaftung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.1-4",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.1-4",
+     "sha256": "9a720261db45ec1901c72a6b0d9a97fb050dc4acccc256e2cd0a8c2d2945b12c"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Steuerreglement",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "694c8f8d61c22afa170c95c5f71ab85cffd14bc304efe49d7219bea150c9c399"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Allgemeine Gebühren- und Benützungsordnung",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 9,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "01d03e6cf99b798337e22d91eab13bfd07ccac3914192829cd5484e4ca65ae4c"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-benutzungsverordnung",
+   "short": "Benutzungsverordnung",
+   "title": "Verordnung über die Benutzung gemeindeeigener Räumlichkeiten",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 27,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "90631dfabf6ca8cc20d6914bb52dad4d099642dfeed67573b729e52b430fddda"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Hausordnung zur Benützung von Schulanlagen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "bcdf1445ec141f6ef22e1708be18ae02919d5cec352f78e2c4009f97e53c2640"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benutzungsordnung für die Pflanzgärten",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 10,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "b579657525efe6695a82dff55cf609d26f1b5b824b515f70d1a54cfc2e1c33b7"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Gesellschaftsvertrag über die Nutzung der Schiessanlagen in der Lachmatt",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 25,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "c8a1b89dd08c9350e7ac0986062206f53e876d9910bf7e984988652a2804a552"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3-1",
+   "short": "SRS 6.6-3.1",
+   "title": "Vereinbarung betreffend Benutzung der «Schiessanlagen Lachmatt» in Muttenz und Pratteln für die «Basler Schützen»",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-3.1",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-3.1",
+     "sha256": "78e4c4953658036abb566eba96b9b188b7103084ba340b6c3c566eff3bed5677"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3-2",
+   "short": "SRS 6.6-3.2",
+   "title": "Vertrag betreffend Schiessrecht auf den Schiessanlagen Lachmatt der Gemeinden Birsfelden, Muttenz und Pratteln für die Binninger Schützen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-3.2",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 8,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-3.2",
+     "sha256": "df356954ec47775f285662dc5e71f634610c597bc09b491c2318d17330a025a7"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Verordnung über die Öffnungszeiten und Zugangsberechtigungen zu den Schulanlagen und öffentlichen Spielplätzen der Gemeinde",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 7,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "5f2b5e6d7af9c3ea5f39837796974c1c94eb2f1dccb7b37b7f3a14cf43569088"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-5",
+   "short": "SRS 6.6-5",
+   "title": "Betriebs- und Nutzungskonzept der Street-Soccer-Anlage",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-5",
+   "versions": [
+    {
+     "from": "2008-04-09",
+     "units": 4,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-5",
+     "sha256": "6710be964a7fab44f38574776a252e4319ea6f8caa294af8bafedc6aeefd74bd"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-6",
+   "short": "SRS 6.6-6",
+   "title": "Nutzungs- und Gebührenordnung Jugend- und Kulturhaus Fabrik",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-6",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 3,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-6",
+     "sha256": "abe679f402f3e3a129504e370daf682f65b9aff10866caa2e8d0313e16a2d6cf"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-7",
+   "short": "SRS 6.6-7",
+   "title": "Verordnung über die Benutzung der Sportanlagen",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-7",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 32,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-7",
+     "sha256": "0170215654f6010eb5cc6c0d945aec5d12d41b86586760fd3bdeef09c555daa6"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-7-1",
+   "short": "SRS 6.6-7.1",
+   "title": "Betriebsordnung für die Videoüberwachung im Hallenbad",
+   "url": "https://muttenz.tlex.ch/app/de/texts_of_law/6.6-7.1",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 14,
+     "source_url": "https://muttenz.tlex.ch/api/de/texts_of_law/6.6-7.1",
+     "sha256": "022dd36b4f3216546160afbe982dcd9d6c7fb8fc2a322fd8c5e815315714b277"
+    }
+   ]
+  }
+ ]
+}
